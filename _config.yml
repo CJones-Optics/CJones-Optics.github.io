@@ -64,28 +64,21 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://cjones-optics.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw  fa-linkedin" 
-      url: "https://LinkedIn.com/"
+      url: "https://linkedin.com/in/cameron-jones-sydney"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CJones-Optics"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://LinkedIn.com/"
+      url: "https://www.linkedin.com/in/cameron-jones-sydney"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CJones-Optics"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
